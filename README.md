@@ -1,6 +1,3 @@
-
-`README.md`
-```md
 # Sports vs Politics Text Classification (Problem 4)
 
 ## Overview

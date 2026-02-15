@@ -14,7 +14,6 @@ The assignment requirements covered:
 ```text
 .
 ├── scrape_guardian.py
-├── pending.py
 ├── prepare_features.py
 ├── train_models.py
 ├── predict_text.py

@@ -1,0 +1,18 @@
+# Virtual environment
+news_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data artifacts
+data/processed/*
+!data/processed/clean_dataset.csv
+
+# Keep final balanced raw dataset only
+data/raw/*
+!data/raw/guardian_articles_balanced.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
